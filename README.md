@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=lordreaper.tk&style=for-the-badge&url=https%3A%2F%2Flordreaper.tk)](https://lordreaper.tk)
 
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm Developing Discord Bot and Website!
 
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
