@@ -51,7 +51,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to Create a Custom VS Code Theme (2020) | Step-by-Step | Debut of codeSTACKr Dark Theme](https://www.youtube.com/watch?v=QCqWzb-9Sy8)
+- [𝗜 𝗺𝗶𝗴𝗵𝘁 𝗯𝗲 𝗴𝗲𝘁𝘁𝗶𝗻𝗴 𝗯𝗲𝘁𝘁𝗲𝗿 𝘄𝗶𝘁𝗵 𝗸𝗻𝗶𝘃𝗲𝘀!😮](https://youtu.be/oa2e4nmxDQg)
 
 <!-- YOUTUBE:END -->
 
