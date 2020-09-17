@@ -74,7 +74,7 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎵 MusicBot [#1](https://github.com//codeSTACKr/codestackr-vscode-theme/issues/1) in [LordReaperY/MusicBot](https://github.com//LordReaperY/MusicBot)
+1. 🎵 MusicBot [#1](https://discord.gg/bbHBYwJ) in [LordReaperY/MusicBot](https://github.com//LordReaperY/MusicBot)
 
 <!--END_SECTION:activity-->
 
