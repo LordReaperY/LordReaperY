@@ -58,7 +58,7 @@
 - [UPDATE: VS Code July 2020 Stable Release | Settings Sync | Browser Debugging](https://www.youtube.com/watch?v=4adVM33GAlA)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://youtube.com/lordreaper)
 
 ---
 
