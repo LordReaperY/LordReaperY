@@ -1,7 +1,7 @@
 ### Hi there, I'm Biswajit [LordReaperY][website] 👋
 
-[![Website](https://img.shields.io/website?label=lordreaper.tk&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://lordreaper.tk)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=lordreaper.tk&style=for-the-badge&url=https%3A%2F%2Flordreaper.tk)](https://lordreaper.tk)
+[![Instagram Follow](https://img.shields.io/instagram/follow/lord_biswajit?color=1DA1F2&logo=instagram&style=for-the-badge)](https://instagram.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Husband, Father, Developer, and Teacher!
 
